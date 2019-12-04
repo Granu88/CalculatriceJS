@@ -1,0 +1,24 @@
+{
+  "name": "calculatricejs",
+  "version": "1.0.0",
+  "description": "The calculatrice",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Granu88/CalculatriceJS.git"
+  },
+  "author": "David VALLON",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Granu88/CalculatriceJS/issues"
+  },
+  "homepage": "https://github.com/Granu88/CalculatriceJS#readme",
+  "devDependencies": {
+    "electron": "^7.1.3",
+    "electron-reload": "^1.5.0"
+  }
+}

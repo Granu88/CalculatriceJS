@@ -1,0 +1,30 @@
+.container {
+  padding: 10px;
+  padding-top: 10px;
+  margin-bottom: 10px;
+  font-size: 25px;
+  border: 1px solid black;
+  text-align: right;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.btn {
+  flex: 0 0 20%;
+  height: 40px;
+  cursor: pointer;
+}
+.btn-dark {
+  background-color: #999999;
+  color: white;
+}
+.btn-egual {
+  flex: 0 0 40%;
+  background-color: #01275F;
+  color: white;
+}
